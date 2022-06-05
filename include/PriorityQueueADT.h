@@ -3,7 +3,8 @@
 
 #include <cstdlib>
 #include <iostream>
-#include <vector>
+#include <algorithm> // std::min_element
+#include <iterator>  // std::begin, std::end
 
 using namespace std;
 

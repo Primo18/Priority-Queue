@@ -3,6 +3,8 @@
 class PriorityQueueUnsorted
 {
 private:
+    vector<int> myVector;
+
 public:
     PriorityQueueUnsorted();
     ~PriorityQueueUnsorted();

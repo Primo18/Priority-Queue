@@ -3,6 +3,8 @@
 class PriorityQueueHeap
 {
 private:
+    vector<int> myVector;
+
 public:
     PriorityQueueHeap();
     ~PriorityQueueHeap();
